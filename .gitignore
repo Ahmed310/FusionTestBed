@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+FusionTest/Library/
+FusionTest/Temp/
+FusionTest/builds/
+FusionTest/Logs/
+FusionTest/New folder/
+FusionTest/obj/
